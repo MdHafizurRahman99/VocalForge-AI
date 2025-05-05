@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # VocalForge-AI
-=======
+
 # 🎙️ VocalForge-AI: Text to Speech Generation App
 
 VocalForge-AI is a generative AI application that converts natural text into expressive spoken audio using state-of-the-art language and speech models.
@@ -31,4 +31,4 @@ Pull requests welcome! For major changes, please open an issue first to discuss.
 
 ## 📄 License
 [MIT](LICENSE)
->>>>>>> aa50bc7 (Initial commit)
+
